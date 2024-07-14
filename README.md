@@ -4,7 +4,9 @@
 
 DevOverflow is a full-stack application built with Next.js 14 and Server Actions, offering a range of powerful features to enhance your experience in the developer community. It is designed to be a comprehensive platform where developers can ask questions, share knowledge, and engage in a vibrant community.
 <br>
-![Uploading image.png…]()
+![devoverflow-light](https://github.com/user-attachments/assets/8964c5e2-4719-4591-ad02-6e76ffba7acc)
+
+
 
 
 ## 🚀 Features
